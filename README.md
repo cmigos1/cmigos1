@@ -29,12 +29,3 @@
 | [HLK-LD2420](https://github.com/cmigos1/HLK-LD2420) | Sensor de presença HLK-LD2420 com MQTT | C++ |
 | [RSA](https://github.com/cmigos1/RSA) | Implementação do algoritmo RSA | Python |
 | [AnaliseIndustriaAco](https://github.com/cmigos1/AnaliseIndustriaAco) | Análise de dados da indústria do aço | Jupyter |
-
-## Estatísticas
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=cmigos1&show_icons=true&theme=tokyonight&hide_border=true)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=cmigos1&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
