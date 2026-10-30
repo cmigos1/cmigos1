@@ -48,10 +48,3 @@
 | [AnaliseIndustriaAco](https://github.com/cmigos1/AnaliseIndustriaAco) | Classificação de carga elétrica industrial com MLP | TensorFlow, Jupyter |
 | [RSA](https://github.com/cmigos1/RSA) | Implementação didática do RSA | Python |
 | [comparadorcifra](https://github.com/cmigos1/comparadorcifra) | Benchmark de AES e DES | Python |
-
-> Também desenvolvo projetos privados em medição de energia, comunicação LoRa e controle por ESP32.
-
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:cmiguelmoraes1@gmail.com)
