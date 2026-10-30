@@ -41,7 +41,7 @@
 | DevOps | Docker, Docker Compose, Nginx, Let's Encrypt (certbot), variáveis de ambiente |
 | Interfaces | LVGL (UI embarcada), PyQt5, Bootstrap, Chart.js |
 | Segurança | AES, DES, RSA, modos de operação e padding |
-| Escrita técnica | LaTeX (abnTeX2, artigos SBC), relatórios e documentação |
+| Escrita técnica | LaTeX, relatórios e documentação |
 | Processo | Trabalho em equipe, gitflow, metodologia ágil, modelagem de processos (BPD) |
 
 ## Projetos em destaque
