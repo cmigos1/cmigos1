@@ -13,6 +13,9 @@
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 </div>
@@ -22,7 +25,7 @@
 - ⚡ Projeto hardware e firmware de medição de energia: aquisição de sinais em alta frequência, cálculo de potência e harmônicos
 - 📡 Trabalho com comunicação sem fio: Wi-Fi, MQTT, LoRa e Bluetooth LE
 - 🤖 Aplico aprendizado de máquina a dados de energia (classificação com redes neurais, clusterização)
-- 🔐 Estudo criptografia implementando os algoritmos (RSA, AES, DES)
+- 🔐 Estudo criptografia implementando os algoritmos 
 - 🏥 Construo sistemas web com Django
 
 ## Habilidades
@@ -31,12 +34,15 @@
 |---|---|
 | Firmware | C/C++, STM32 (HAL, ADC com DMA, timers, UART), ESP32, FreeRTOS, PlatformIO, STM32CubeIDE |
 | Processamento de sinais | FFT com CMSIS-DSP, harmônicos e THD, RMS, potência ativa, reativa e aparente |
-| Eletrônica | Condicionamento de sinal, sensores de tensão e corrente, PWM, displays TFT, cartão SD, RTC |
-| IoT e redes | MQTT, Mosquitto, Wi-Fi, LoRa, BLE, NTP |
-| Dados e IA | Python, pandas, NumPy, scikit-learn, TensorFlow/Keras, K-means, NILM, Jupyter |
-| Interfaces | LVGL (UI embarcada), PyQt5, Django, Bootstrap, Chart.js |
+| Eletrônica e robótica | Condicionamento de sinal, sensores de tensão e corrente, PWM, servos , pontes H, câmera OV2640, displays TFT, cartão SD, RTC |
+| IoT e redes | MQTT, Mosquitto, Wi-Fi, LoRa, BLE, Bluetooth A2DP, UART com CRC16 e retransmissão, servidor web embarcado, NTP |
+| Dados e IA | Python, pandas, NumPy, scikit-learn, TensorFlow/Keras, K-means, NILM, visão computacional, Jupyter |
+| Web e backend | Django, PostgreSQL, gateway de pagamento, gunicorn, WhiteNoise, testes e comando de seed |
+| DevOps | Docker, Docker Compose, Nginx, Let's Encrypt (certbot), variáveis de ambiente |
+| Interfaces | LVGL (UI embarcada), PyQt5, Bootstrap, Chart.js |
 | Segurança | AES, DES, RSA, modos de operação e padding |
 | Escrita técnica | LaTeX (abnTeX2, artigos SBC), relatórios e documentação |
+| Processo | Trabalho em equipe, gitflow, metodologia ágil, modelagem de processos (BPD) |
 
 ## Projetos em destaque
 
@@ -48,3 +54,4 @@
 | [AnaliseIndustriaAco](https://github.com/cmigos1/AnaliseIndustriaAco) | Classificação de carga elétrica industrial com MLP | TensorFlow, Jupyter |
 | [RSA](https://github.com/cmigos1/RSA) | Implementação didática do RSA | Python |
 | [comparadorcifra](https://github.com/cmigos1/comparadorcifra) | Benchmark de AES e DES | Python |
+
