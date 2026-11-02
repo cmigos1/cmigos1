@@ -22,10 +22,9 @@
 
 ## Sobre mim
 
-- ⚡ Projeto hardware e firmware de medição de energia: aquisição de sinais em alta frequência, cálculo de potência e harmônicos
+- ⚡ Projeto hardware e firmware para sistemas embarcados
 - 📡 Trabalho com comunicação sem fio: Wi-Fi, MQTT, LoRa e Bluetooth LE
 - 🤖 Aplico aprendizado de máquina a dados de energia (classificação com redes neurais, clusterização)
-- 🔐 Estudo criptografia implementando os algoritmos 
 - 🏥 Construo sistemas web com Django
 
 ## Habilidades
